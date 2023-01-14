@@ -1237,5 +1237,9 @@
 *.p6.toutiaoimg.com
 *.mssdk.bytedance.com
 *.imagex-web-settings.volcimagex.net
-
+*.sf3-cdn-tos.toutiaostatic.com:443
+*.p3.toutiaoimg.com:443
+*.p3.toutiaoimg.com:443
+*.sf1-cdn-tos.douyinstatic.com:443
+*.lf3-short.ibytedapm.com:443
 
