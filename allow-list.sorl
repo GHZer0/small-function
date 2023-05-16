@@ -15,6 +15,7 @@
 *.cn
 
 ; 其他域名
+*.byted-static.com
 *.bytetcc.com
 *.bytegoofy.com
 *.byteimg.com
