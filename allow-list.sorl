@@ -15,6 +15,10 @@
 *.cn
 
 ; 其他域名
+*.bytetcc.com
+*.byteimg.com
+*.douyinvod.com
+*.yhgfb-cn-static.com
 *.178.com
 *.ngabbs.com
 *.saraba1st.com
